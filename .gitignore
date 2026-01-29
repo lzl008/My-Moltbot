@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+.next/
+dist/
+build/
+out/
+
+# Production builds
+.next/
+
+# Environment variables
+.env*.local
+.env.local
+.env.production.local
+.env.development.local
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Icon?
+*~
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Build outputs
+dist/
+build/
+out/
